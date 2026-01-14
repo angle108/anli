@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>我的个人简介</title>
+<style>
+body { font-family: Arial, sans-serif; max-width: 700px; margin: 40px auto; line-height: 1.8; }
+h1 { text-align: center; }
+</style>
+</head>
+<body>
+<h1>个人简介</h1>
+
+<p>姓名：你的姓名</p>
+<p>职业/身份：例如 软件工程师 / 学生</p>
+<p>简介：</p>
+<p>在这里写一小段你的介绍，例如背景、兴趣领域、擅长技能、目标等。</p>
+
+<p>联系方式（可选）：邮箱 / 微信 / 网站</p>
+
+</body>
+</html>
